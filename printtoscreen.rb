@@ -1,2 +1,1 @@
-print "hello world"
-print "12345678910"
+p *1..100
